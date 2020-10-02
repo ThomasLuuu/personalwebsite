@@ -1,2 +1,2 @@
-# personalwebsite
- This is Thomas's personal website.
+# mypersonalwebsite
+ Hey, I'm  Thomas's created my beautiful personal website.
